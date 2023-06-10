@@ -1,3 +1,5 @@
+"use client";
+
 import { Form, Input, InputNumber, Button, Space, Row, Col } from 'antd';
 import { MinusCircleOutlined, PlusOutlined } from '@ant-design/icons';
 import { useWallet } from '@suiet/wallet-kit';
